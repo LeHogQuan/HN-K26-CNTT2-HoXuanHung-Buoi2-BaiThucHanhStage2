@@ -68,6 +68,7 @@ Cách này giúp việc bắt đầu dễ hơn. Khi đã bắt đầu, có thể
 *)NHIỆM VỤ 4. PDCA CHALLENGE – KHI KẾ HOẠCH KHÔNG CHẠY NHƯ DỰ KIẾN
 1. Plan – Do
 Kế hoạch ban đầu là tự học **5 buổi mỗi tuần**.
+
 | Tuần | Kế hoạch | Thực tế |
 |---|---:|---:|
 | Tuần 1 | 5 buổi | 5 buổi |
@@ -75,6 +76,7 @@ Kế hoạch ban đầu là tự học **5 buổi mỗi tuần**.
 | Tuần 3 | 5 buổi | 2 buổi |
 | Tuần 4 | 5 buổi | 3 buổi |
 | **Tổng** | **20 buổi** | **14 buổi** |
+
 Sau 4 tuần, sinh viên hoàn thành 14/20 buổi, đạt khoảng **70% kế hoạch**.
 2. Check
 Vấn đề:
